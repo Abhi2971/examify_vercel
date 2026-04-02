@@ -1,0 +1,6 @@
+[
+  { "id": "n1", "type": "exam_reminder", "title": "Exam Tomorrow", "message": "Data Structures Final Exam starts tomorrow at 10 AM", "is_read": false, "created_at": "2026-03-29T10:00:00Z" },
+  { "id": "n2", "type": "result_published", "title": "Results Available", "message": "Your Python Quiz results are now available", "is_read": true, "created_at": "2026-03-28T15:00:00Z" },
+  { "id": "n3", "type": "system_announcement", "title": "System Maintenance", "message": "Scheduled maintenance on March 31st from 2-4 AM", "is_read": false, "created_at": "2026-03-27T09:00:00Z" },
+  { "id": "n4", "type": "exam_reminder", "title": "Exam Today", "message": "Database Quiz starts in 1 hour", "is_read": false, "created_at": "2026-03-30T08:00:00Z" }
+]

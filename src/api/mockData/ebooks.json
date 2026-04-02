@@ -1,0 +1,6 @@
+[
+  { "id": "eb1", "title": "Introduction to Data Structures", "author": "Prof. Smith", "subject": "Data Structures", "access_type": "free", "total_pages": 250 },
+  { "id": "eb2", "title": "Database Management Systems", "author": "Dr. Johnson", "subject": "DBMS", "access_type": "paid", "price": 199, "total_pages": 400 },
+  { "id": "eb3", "title": "Operating Systems Guide", "author": "Prof. Davis", "subject": "Operating Systems", "access_type": "free", "total_pages": 320 },
+  { "id": "eb4", "title": "Python for Beginners", "author": "Dr. Brown", "subject": "Python", "access_type": "paid", "price": 149, "total_pages": 180 }
+]

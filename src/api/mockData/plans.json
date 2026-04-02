@@ -1,0 +1,9 @@
+[
+  { "id": "p1", "name": "Basic", "type": "college", "price": 999, "validity_days": 30, "features": { "max_teachers": 5, "max_students": 200, "max_exams": 50 } },
+  { "id": "p2", "name": "Pro", "type": "college", "price": 2999, "validity_days": 30, "features": { "max_teachers": 20, "max_students": 1000, "max_exams": 200 } },
+  { "id": "p3", "name": "Enterprise", "type": "college", "price": 7999, "validity_days": 30, "features": { "max_teachers": -1, "max_students": -1, "max_exams": -1 } },
+  { "id": "p4", "name": "AI Basic", "type": "student_ai", "price": 199, "validity_days": 30, "features": { "queries_per_day": 100 } },
+  { "id": "p5", "name": "AI Premium", "type": "student_ai", "price": 499, "validity_days": 30, "features": { "queries_per_day": -1 } },
+  { "id": "p6", "name": "GATE CS Bundle", "type": "exam_bundle", "price": 799, "validity_days": 90, "features": { "exams_count": 10 } },
+  { "id": "p7", "name": "UPSC Prelims Bundle", "type": "exam_bundle", "price": 1299, "validity_days": 90, "features": { "exams_count": 15 } }
+]

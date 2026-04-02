@@ -1,0 +1,5 @@
+[
+  { "id": "inst1", "name": "DY Patil College of Engineering", "city": "Pune", "state": "Maharashtra", "teachers_count": 15, "students_count": 500, "plan": "Pro", "is_active": true },
+  { "id": "inst2", "name": "MIT World Peace University", "city": "Pune", "state": "Maharashtra", "teachers_count": 25, "students_count": 800, "plan": "Enterprise", "is_active": true },
+  { "id": "inst3", "name": "SPPU Affiliated Institute", "city": "Mumbai", "state": "Maharashtra", "teachers_count": 10, "students_count": 300, "plan": "Basic", "is_active": true }
+]

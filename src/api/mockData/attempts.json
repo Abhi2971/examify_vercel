@@ -1,0 +1,7 @@
+[
+  { "id": "att1", "exam_id": "ex1", "student_id": "8", "score": 85, "total_marks": 100, "percentage": 85, "is_passed": true, "submitted_at": "2026-03-15T12:30:00Z" },
+  { "id": "att2", "exam_id": "ex1", "student_id": "9", "score": 72, "total_marks": 100, "percentage": 72, "is_passed": true, "submitted_at": "2026-03-15T12:45:00Z" },
+  { "id": "att3", "exam_id": "ex6", "student_id": "8", "score": 92, "total_marks": 100, "percentage": 92, "is_passed": true, "submitted_at": "2026-03-20T11:00:00Z" },
+  { "id": "att4", "exam_id": "ex6", "student_id": "9", "score": 68, "total_marks": 100, "percentage": 68, "is_passed": true, "submitted_at": "2026-03-20T11:30:00Z" },
+  { "id": "att5", "exam_id": "ex5", "student_id": "11", "score": 55, "total_marks": 100, "percentage": 55, "is_passed": false, "submitted_at": "2026-03-25T10:00:00Z" }
+]

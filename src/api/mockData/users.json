@@ -1,0 +1,17 @@
+[
+  { "id": "1", "name": "Super Admin", "email": "super@examify.com", "role": "super_admin", "is_active": true },
+  { "id": "2", "name": "Platform Admin 1", "email": "admin1@examify.com", "role": "admin_public", "is_active": true },
+  { "id": "3", "name": "Admin DY Patil", "email": "admin@dypatil.com", "role": "admin_college", "institute_id": "inst1", "is_active": true },
+  { "id": "4", "name": "Admin MIT", "email": "admin@mit.edu", "role": "admin_college", "institute_id": "inst2", "is_active": true },
+  { "id": "5", "name": "John Teacher", "email": "john@dypatil.com", "role": "teacher", "institute_id": "inst1", "is_active": true },
+  { "id": "6", "name": "Jane Teacher", "email": "jane@dypatil.com", "role": "teacher", "institute_id": "inst1", "is_active": true },
+  { "id": "7", "name": "Mike Teacher", "email": "mike@mit.edu", "role": "teacher", "institute_id": "inst2", "is_active": true },
+  { "id": "8", "name": "Student A", "email": "student1@college.com", "role": "student_college", "institute_id": "inst1", "is_active": true },
+  { "id": "9", "name": "Student B", "email": "student2@college.com", "role": "student_college", "institute_id": "inst1", "is_active": true },
+  { "id": "10", "name": "Student C", "email": "student3@college.com", "role": "student_college", "institute_id": "inst1", "is_active": true },
+  { "id": "11", "name": "Public Student 1", "email": "public1@mail.com", "role": "student_public", "is_active": true },
+  { "id": "12", "name": "Public Student 2", "email": "public2@mail.com", "role": "student_public", "is_active": true },
+  { "id": "13", "name": "Support Agent 1", "email": "support1@examify.com", "role": "support_agent", "is_active": true },
+  { "id": "14", "name": "Teacher 2", "email": "teacher2@mit.edu", "role": "teacher", "institute_id": "inst2", "is_active": true },
+  { "id": "15", "name": "Teacher 3", "email": "teacher3@mit.edu", "role": "teacher", "institute_id": "inst2", "is_active": true }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "q1", "question_text": "What is the time complexity of binary search?", "options": [{"index": 0, "text": "O(n)"}, {"index": 1, "text": "O(log n)"}, {"index": 2, "text": "O(n^2)"}, {"index": 3, "text": "O(1)"}], "correct_answer": 1, "difficulty": "easy", "subject": "Data Structures" },
+  { "id": "q2", "question_text": "Which data structure uses LIFO principle?", "options": [{"index": 0, "text": "Queue"}, {"index": 1, "text": "Stack"}, {"index": 2, "text": "Array"}, {"index": 3, "text": "Linked List"}], "correct_answer": 1, "difficulty": "easy", "subject": "Data Structures" },
+  { "id": "q3", "question_text": "What is the primary key in a database?", "options": [{"index": 0, "text": "Any column"}, {"index": 1, "text": "Unique identifier for a record"}, {"index": 2, "text": "First column"}, {"index": 3, "text": "Foreign key"}], "correct_answer": 1, "difficulty": "easy", "subject": "DBMS" },
+  { "id": "q4", "question_text": "Which of the following is NOT a type of OS?", "options": [{"index": 0, "text": "Batch"}, {"index": 1, "text": "Time-sharing"}, {"index": 2, "text": "Distributed"}, {"index": 3, "text": "Compile-time"}], "correct_answer": 3, "difficulty": "medium", "subject": "Operating Systems" },
+  { "id": "q5", "question_text": "What does SQL stand for?", "options": [{"index": 0, "text": "Simple Query Language"}, {"index": 1, "text": "Structured Query Language"}, {"index": 2, "text": "Standard Query Language"}, {"index": 3, "text": "System Query Language"}], "correct_answer": 1, "difficulty": "easy", "subject": "DBMS" }
+]

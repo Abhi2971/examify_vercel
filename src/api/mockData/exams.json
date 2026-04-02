@@ -1,0 +1,8 @@
+[
+  { "id": "ex1", "title": "Data Structures Mid-Term", "status": "completed", "total_attempts": 45, "avg_score": 72.5, "passing": 38, "created_by": "John Teacher", "subject": "Data Structures" },
+  { "id": "ex2", "title": "Database Management Quiz", "status": "ongoing", "total_attempts": 30, "avg_score": 65.0, "passing": 22, "created_by": "Jane Teacher", "subject": "DBMS" },
+  { "id": "ex3", "title": "Operating Systems Final", "status": "published", "total_attempts": 0, "created_by": "John Teacher", "subject": "Operating Systems" },
+  { "id": "ex4", "title": "Computer Networks Test", "status": "draft", "total_attempts": 0, "created_by": "Mike Teacher", "subject": "Networking" },
+  { "id": "ex5", "title": "GATE CS Practice Test 1", "status": "published", "total_attempts": 120, "avg_score": 55.2, "passing": 78, "created_by": "Platform Admin", "subject": "General" },
+  { "id": "ex6", "title": "Python Programming Quiz", "status": "completed", "total_attempts": 35, "avg_score": 78.3, "passing": 30, "created_by": "Jane Teacher", "subject": "Python" }
+]

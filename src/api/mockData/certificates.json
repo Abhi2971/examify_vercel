@@ -1,0 +1,5 @@
+[
+  { "id": "c1", "verification_id": "CERT-A1B2C3", "student_name": "Student A", "exam_title": "Data Structures Mid-Term", "score": 85, "percentage": 85, "issued_on": "2026-03-15T00:00:00Z", "is_valid": true },
+  { "id": "c2", "verification_id": "CERT-D4E5F6", "student_name": "Student B", "exam_title": "Python Programming Quiz", "score": 92, "percentage": 92, "issued_on": "2026-03-20T00:00:00Z", "is_valid": true },
+  { "id": "c3", "verification_id": "CERT-G7H8I9", "student_name": "Student C", "exam_title": "Database Management Quiz", "score": 78, "percentage": 78, "issued_on": "2026-03-25T00:00:00Z", "is_valid": true }
+]

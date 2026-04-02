@@ -1,0 +1,5 @@
+[
+  { "id": "b1", "title": "GATE CS Complete Pack", "description": "Complete GATE Computer Science preparation bundle with 10 full-length tests", "price": 799, "exams_count": 10, "validity_days": 90, "is_active": true },
+  { "id": "b2", "title": "UPSC Prelims 2026", "description": "UPSC Civil Services Prelims preparation bundle with 15 mock tests", "price": 1299, "exams_count": 15, "validity_days": 180, "is_active": true },
+  { "id": "b3", "title": "Python Mastery", "description": "Python programming practice tests and quizzes", "price": 499, "exams_count": 5, "validity_days": 60, "is_active": true }
+]
